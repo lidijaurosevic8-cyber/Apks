@@ -1,0 +1,6 @@
+{
+  "name": "Phone Performance Lab",
+  "description": "Advanced real-time hardware monitoring, diagnostics, and benchmark suite for Android devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
